@@ -1,9 +1,9 @@
 *Powered by Sector Vault Project*
-issue: 1
+issue: 2
 title: 幸福刑
 type: project
-submittedAt: 2026-09-30T15:41:41.726Z
-publishedAt: 2026-09-30T15:41:41.726Z
+submittedAt: 2026-09-30T15:46:26.273Z
+publishedAt: 2026-09-30T15:46:26.273Z
 cover: 84d816dde4b736473f8a795269b1232694edaba6.jpg
 songs: https://www.bilibili.com/video/BV1kJ6EBXEJ8, https://www.bilibili.com/video/BV14KkMBzE3P
 engines: Synthesizer V 2
