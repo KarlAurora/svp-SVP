@@ -26,6 +26,31 @@
       "languages": [
         "ja"
       ]
+    },
+    {
+      "slug": "261001-who",
+      "owner": "KarlAurora",
+      "repo": "svp-SVP",
+      "platform": "github",
+      "type": "project",
+      "title": "who?",
+      "submittedAt": "2026-09-30T16:39:21.703Z",
+      "publishedAt": "2026-09-30T16:39:21.703Z",
+      "cover": "8a97316228a3fc23928da331f9274b88c79162f4.jpg",
+      "email": "1872581107@qq.com",
+      "paramState": "tuned",
+      "songs": [
+        "who?"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "無來"
+      ],
+      "languages": [
+        "ja"
+      ]
     }
   ]
 }
